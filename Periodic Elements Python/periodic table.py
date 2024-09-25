@@ -1,4 +1,3 @@
-#  THE FINAL HAND TYPED CODE
 
 import sys
 from tabulate import tabulate 
